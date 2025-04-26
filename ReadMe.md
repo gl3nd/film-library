@@ -46,7 +46,7 @@ A web application for managing and exploring your film collection. The Film Libr
 
 2. **Open the project in VSCode**
 
-3. **Open a two new Terminals in VSCode**
+3. **Open two new Terminals in VSCode**
 
 4. **Terminal 1 (Server)**
     ```bash
@@ -65,6 +65,18 @@ A web application for managing and exploring your film collection. The Film Libr
 ### Use these steps to set up and run the Film Library Web Application. Happy coding!
 
 ### Example
+
+### In the database there are already 3 users
+    
+    username: u1@p.it
+    password: pwd
+    
+    username: u2@p.it
+    password: pwd
+
+    username: u3@p.it
+    password: pwd
+
 ![Main Page](screenshots/Main_page.png)
 
 ![Login Page](screenshots/LogIn_page.png)
