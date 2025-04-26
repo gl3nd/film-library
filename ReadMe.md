@@ -41,7 +41,7 @@ A web application for managing and exploring your film collection. The Film Libr
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/<your-username>/film-library.git
+   git clone https://github.com/gl3nd/film-library.git
    cd film-library
 
 2. **Open the project in VSCode**
