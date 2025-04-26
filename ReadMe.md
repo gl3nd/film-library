@@ -60,7 +60,13 @@ A web application for managing and exploring your film collection. The Film Libr
     npm install
     npm run dev
 
-    
+
 
 ### Use these steps to set up and run the Film Library Web Application. Happy coding!
+
+### Example
+![Main Page](screenshots/Main_page.png)
+
+![Login Page](screenshots/LogIn_page.png)
+
 
