@@ -34,7 +34,7 @@ function App() {
   const [searchTerm, setSearchTerm] = useState("");
   const [allFilms,setAllFilms] = useState([]);
   const [filmList, setfilmList] = useState([]);
-  const [dirty,setDirty] = useState(true);
+  const [dirty,setDirty] = useState(false);
 
   useEffect(()=>{
     const auth = async() =>{
@@ -77,7 +77,7 @@ function App() {
 
   
   useEffect( ()=>{
-    if(dirty){ 
+    if(!dirty){ 
     API.getFilms()
     .then(f => {
       setfilmList(f);
